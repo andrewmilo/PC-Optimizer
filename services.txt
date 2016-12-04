@@ -1,0 +1,11 @@
+Adobe Acrobat Update Service
+Adobe Flash Player Update Service
+AVG Service
+Disk Defragmenter
+Google Update Service (gupdate)
+Google Update Service (gupdatem)
+MBAMService
+Skype Updater
+Skype Click to Call PNR Service
+Skype Click to Call Updater
+SuperFetch
