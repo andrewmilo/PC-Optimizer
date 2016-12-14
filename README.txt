@@ -1,4 +1,4 @@
-The purpose of this program is to temporarilty decrease CPU utilization by disabling various processess and services. This will allow for more consistency in the processing of various applications.
+The purpose of this program is to temporarilty decrease CPU utilization by disabling various processess and services. This will allow for more consistency in the processing of intensive applications.
 
 This remedies issues such as:
 Low Frame Per Second (FPS) in games,
